@@ -17,6 +17,27 @@ The Scope as discussed in the species discussion would fit in a role as follows:
 
 [Species Document Discussion](https://discord.com/channels/310555209753690112/1264385774065815616/1264390827371663420)
 
+## Design Pillars
+
+- 
+
+### Player interaction
+In general, how will avail enhance player interaction? How would players interact with avalis?
+
+- They are small and silly little avians that will bring 
+
+### Chaotic
+
+- 
+
+### Seriously Silly
+
+- 
+
+### Dynamic environment
+
+- 
+
 ## Features
 
 - Internally they are on the cooler side
